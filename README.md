@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Johne 😎
-- 🌱 Estudando Front-end
+- 🌱 Estudando Front-end - HTML5 | CSS3 | JAVASCRIPT | REACT | TYPESCRIPT
 - 📫 Contate-me no email: contatojohnelima@gmail.com
 - 😄 Pronomes: Ele/Dele
 <br>
